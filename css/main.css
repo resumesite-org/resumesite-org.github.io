@@ -838,12 +838,12 @@ div.module2.parallax-2 {
 
 .cd-single-step:nth-of-type(2) {
     top: -5.5%;
-    left: 55%;
+    left: 56%;
 }
 
 .cd-single-step:nth-of-type(3) {
     top: 8%;
-    left: 12%;
+    left: 10%;
 }
 
 .cd-single-step:nth-of-type(4) {
@@ -862,17 +862,22 @@ div.module2.parallax-2 {
 }
 
 .cd-single-step:nth-of-type(7) {
-    bottom: 7%;
+    bottom: 1%;
     left: 25%;
 }
 
 .cd-single-step:nth-of-type(8) {
-    bottom: 11%;
+    bottom: 9%;
     left: 54.5%;
 }
 
 .cd-single-step:nth-of-type(9) {
-    bottom: 3%;
+    bottom: -2%;
+    left: 15%;
+}
+
+.cd-single-step:nth-of-type(10) {
+    bottom: 1%;
     left: 57.5%;
 }
 
