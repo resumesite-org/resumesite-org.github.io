@@ -1570,7 +1570,8 @@ hr {
 
 .cl-effect-2 {
     font-family: bebasneue;
-    font-size: 15px;
+    font-size: 20px;
+    letter-spacing: 1px;
     font-weight: 700;
     position: relative;
     display: inline-block;
