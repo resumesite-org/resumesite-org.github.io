@@ -17,7 +17,7 @@ html {
 }
 
 body {
-    font-family: bebasneue lato fontawesome aq aleks;
+    font-family: bebasneue aq aleks fontawesome;
     position: relative;
     z-index: 0;
     -webkit-box-sizing: border-box;
@@ -44,11 +44,12 @@ body {
 }
 
 .navbar {
-    font-family: lato;
+    font-family: bebasneue;
     position: fixed;
     top: 30%;
     left: 10px;
-    font-size: 13px;
+    letter-spacing: 1px;
+    font-size: 17px;
     text-transform: uppercase;
 }
 
@@ -698,12 +699,6 @@ div.module2.parallax-2 {
     font-family: fontawesome;
     src: url(../fonts/FontAwesome-webfont.ttf);
     font-weight: normal 400;
-}
-
-@font-face {
-    font-family: lato;
-    src: url(../fonts/lato-black.ttf);
-    font-weight: 900;
 }
 
 @font-face {
